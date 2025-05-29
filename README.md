@@ -5,6 +5,10 @@
 A Python web application built with Flask that integrates Auth0 for secure user authentication. This project demonstrates implementing login/logout functionality and protecting routes with authentication.
 
 ---
+🎥 Demo Video
+
+YouTube Demo Link - 5 Minute Walkthrough
+https://youtu.be/TN4TDb8YhuI
 
 ## 🚀 Features
 

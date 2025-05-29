@@ -96,7 +96,7 @@ Note the following:
 
 ## 5. Environment Configuration
 
-### 1. Copy environment template
+### 1. Copy the environment template
 
 ```bash
 cp .env.example .env
@@ -122,7 +122,7 @@ APP_SECRET_KEY=your_random_secret_key_here
 python app.py
 ```
 
-Access the app at: [http://localhost:3000](http://localhost:3000)
+Access the app at: [http://localhost:5000](http://localhost:5000)
 
 ---
 
@@ -168,7 +168,7 @@ Access the app at: [http://localhost:3000](http://localhost:3000)
 ## 🧪 Testing the Application
 
 1. Start the app: `python app.py`  
-2. Visit: [http://localhost:3000](http://localhost:3000)  
+2. Visit: [http://localhost:3000](http://localhost:5000)  
 3. Click **Login with Auth0**  
 4. Try accessing `/protected` before and after login  
 5. Click **Logout** to clear session

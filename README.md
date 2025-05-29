@@ -6,13 +6,6 @@ A Python web application built with Flask that integrates Auth0 for secure user 
 
 ---
 
-## 🎥 Demo Video
-
-**[YouTube Demo Link – 5 Minute Walkthrough](#)**  
-*Replace this with your actual YouTube video link after recording.*
-
----
-
 ## 🚀 Features
 
 - **User Authentication**: Secure login/logout using Auth0  
@@ -168,7 +161,7 @@ Access the app at: [http://localhost:5000](http://localhost:5000)
 ## 🧪 Testing the Application
 
 1. Start the app: `python app.py`  
-2. Visit: [http://localhost:3000](http://localhost:5000)  
+2. Visit: [http://localhost:5000](http://localhost:3000)  
 3. Click **Login with Auth0**  
 4. Try accessing `/protected` before and after login  
 5. Click **Logout** to clear session
@@ -235,7 +228,7 @@ The 5-minute YouTube demo covers:
 
 ---
 
-**Author:** *[Your Name]*  
+**Author:** *[Iman]*  
 **Course:** CST8919  
 **Assignment:** Lab 1 – Flask + Auth0 Authentication  
 **Date:** May 2025
